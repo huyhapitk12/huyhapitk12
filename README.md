@@ -17,4 +17,4 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/huyhap)
 
 ---
-![Moe Counter](https://count.getloli.com/get/@huyhapitk12?theme=asoul)
+![Moe Counter](https://count.getloli.com/get/@huyhapitk12?theme=booru-touhoulat)
