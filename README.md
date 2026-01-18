@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/HuyHAP2909)
 
 # 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huyhapitk12&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-delta-one-14.vercel.app/api?username=huyhapitk12&show_icons=true&theme=radical)
 
 # 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
