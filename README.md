@@ -17,4 +17,4 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/huyhap)
 
 ---
-![Visitor Count](https://visitcount.itsvg.in/api?id=huyhapitk12&icon=0&color=0)
+![Visitor Count](https://profile-counter.glitch.me/huyhapitk12/count.svg)
