@@ -5,11 +5,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/HuyHAP2909)
 
 # 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=huyhapitk12&show_icons=true&theme=radical&hide_border=false" alt="HuyHAP Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyhapitk12&theme=radical&layout=compact&hide_border=false" alt="HuyHAP Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=huyhapitk12&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=huyhapitk12&theme=radical)
 
 # 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
